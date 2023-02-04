@@ -2,3 +2,5 @@ node_modules/
 _static/dist/
 *.jpg
 *.png
+*.svg
+*.mp4
